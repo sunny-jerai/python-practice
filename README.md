@@ -6,3 +6,7 @@ It also allows me to practice on GIT once again to get the hang of it.
 ## C/C++
 
 This Repository will also host some C code that I practice. 
+
+## Local Development 
+
+1. open index.html in your browser
